@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora (Terminada)
 
 # Descripción
 * Calculadora avanzada con operaciones básicas.
